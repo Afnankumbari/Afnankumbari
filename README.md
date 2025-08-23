@@ -25,4 +25,3 @@ Hey there! I'm *Mohammad Afnan Kumbari* — a curious *Front-End Developer* pass
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
   </a>
 </p>
----
