@@ -52,8 +52,9 @@ I'm a curious **Front-End Developer** dedicated to crafting clean, responsive, a
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Afnankumbari&color=ff5733&style=flat-square&label=PROFILE+VIEWS" alt="Afnan's Profile Views" />
 </p>
+
 ---
----
+
 
 <p align="center">
   <img src="https://media.tenor.com/7Yf_L9m0I-oAAAAC/thanos-philosophy.gif" width="500" alt="Thanos Aesthetic"/>
