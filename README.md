@@ -49,12 +49,13 @@ I'm a curious **Front-End Developer** dedicated to crafting clean, responsive, a
 ---
 
 ### 👁️ Profile Views
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAfnankumbari%2FAfnankumbari&count_bg=%23FF5733&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Afnankumbari&color=ff5733&style=flat-square&label=PROFILE+VIEWS" alt="Afnan's Profile Views" />
+</p>
 ---
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y5Ym5xdmJxdmJxdmJxdmJxdmJxdmJxdmJxdmJxdmJxdmJxdmJxdmImZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3oxHQjLjssYvKtdYvS/giphy.gif" width="500" alt="Thanos Aesthetic" />
+  <img src="https://media.giphy.com/media/ie76d33Mwxq8uJknH8/giphy.gif" width="500" alt="Thanos Aesthetic" />
   <br>
   <b>"The hardest choices require the strongest wills."</b>
 </p>
