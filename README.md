@@ -1,34 +1,49 @@
----
+# Hey there! 👋 I'm Mohammad Afnan Kumbari
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&width=600&lines=Hey+there!+I'm+Mohammad+Afnan+Kumbari;Front-End+Developer;Passionate+about+UI%2FUX+Design;Always+Learning+%26+Building;Turning+Ideas+into+Web+Experiences;Crafting+Clean+%26+Responsive+Designs)](https://git.io/typing-svg)
-
----
-
-## 🌟 *About Me*
-Hey there! I'm *Mohammad Afnan Kumbari* — a curious *Front-End Developer* passionate about crafting clean, responsive, and interactive web interfaces. 🌐  
-⚡ Always exploring new tools, frameworks, and design trends to bring ideas to life.  
-💡 *"Code with creativity, build with passion."*
-
----
-
-## 🛠 *Skills*
-<p align="center">
-  <img src="https://img.icons8.com/color/96/html-5--v1.png" alt="HTML5" width="80" height="80"/>
-  <img src="https://img.icons8.com/color/96/css3.png" alt="CSS3" width="80" height="80"/>
-  <img src="https://img.icons8.com/color/96/javascript--v1.png" alt="JavaScript" width="80" height="80"/>
-  <img src="https://img.icons8.com/color/96/java-coffee-cup-logo.png" alt="Java" width="80" height="80"/>
+<p align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Front-End+Developer;Passionate+about+UI%2FUX+Design;Always+Learning+%26+Building;Turning+Ideas+into+Experiences" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📬 *Connect with Me*
-<p align="center">
-  <a href="https://www.linkedin.com/in/afnan-kumbari-2b5557225/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:afnankumbari313@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
-  </a>
+### 🔭 About Me
+I'm a curious **Front-End Developer** dedicated to crafting clean, responsive, and interactive web interfaces. I enjoy exploring new frameworks and design trends to bring creative ideas to life.
+
+- 🔭 I’m currently working on **Web Development Projects**.
+- 🌱 I’m currently learning **Software Design Patterns & System Design**.
+- 💬 Ask me about **Python, Java, HTML/CSS, and JavaScript**.
+- 📫 How to reach me: **afnankumbari313@gmail.com**
+
+---
+
+### 🛠 Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ---
+
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=afnan-kumbari&show_icons=true&theme=radical" alt="Afnan's GitHub stats" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnan-kumbari&layout=compact&theme=radical" alt="Top Langs" height="180px" />
+</p>
+
+---
+
+### 📬 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/afnan-kumbari-2b5557225/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:afnankumbari313@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+<i>"Code with creativity, build with passion."</i>
+</p>
