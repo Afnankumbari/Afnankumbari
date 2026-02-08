@@ -32,11 +32,15 @@ I'm a curious **Front-End Developer** dedicated to crafting clean, responsive, a
 
 ---
 
+---
+
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=afnan-kumbari&show_icons=true&theme=radical" alt="Afnan's GitHub stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnan-kumbari&layout=compact&theme=radical" alt="Top Langs" height="180px" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=afnan-kumbari&show_icons=true&theme=radical" alt="Afnan's GitHub stats" height="180px" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afnan-kumbari&layout=compact&theme=radical" alt="Top Langs" height="180px" />
 </p>
+
+---
 
 ---
 
