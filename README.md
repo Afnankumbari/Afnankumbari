@@ -57,7 +57,6 @@ I'm a curious **Front-End Developer** dedicated to crafting clean, responsive, a
 
 
 <p align="center">
-  <img src="https://media.tenor.com/7Yf_L9m0I-oAAAAC/thanos-philosophy.gif" width="500" alt="Thanos Aesthetic"/>
   <br>
   <b>"The hardest choices require the strongest wills."</b>
 </p>
