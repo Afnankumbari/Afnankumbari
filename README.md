@@ -34,8 +34,8 @@ I'm a curious **Front-End Developer** dedicated to crafting clean, responsive, a
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Afnankumbari&show_icons=true&theme=radical" alt="Afnan's GitHub stats" height="180px" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Afnankumbari&layout=compact&theme=radical" alt="Top Langs" height="180px" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Afnankumbari&show_icons=true&theme=radical" alt="Afnan's GitHub stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Afnankumbari&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
@@ -44,6 +44,14 @@ I'm a curious **Front-End Developer** dedicated to crafting clean, responsive, a
 <p align="left">
 <a href="https://www.linkedin.com/in/afnan-kumbari-2b5557225/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:afnankumbari313@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueGZidXpueGZidXpueGZidXpueGZidXpueGZidXpueGZidXpueGZidXpueGZpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ie76d33Mwxq8uJknH8/giphy.gif" width="500" />
+  <br>
+  <b>"The hardest choices require the strongest wills."</b>
 </p>
 
 ---
