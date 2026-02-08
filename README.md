@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" width="400px" alt="Coding Animation" />
+</p>
+
 # Hey there! 👋 I'm Mohammad Afnan Kumbari
 
 <p align="left">
