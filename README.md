@@ -4,8 +4,8 @@
 
 # Hey there! 👋 I'm Mohammad Afnan Kumbari
 
-<p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Front-End+Developer;Passionate+about+UI%2FUX+Design;Always+Learning+%26+Building;Turning+Ideas+into+Experiences" alt="Typing SVG" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"100%">
 </p>
 
 ---
@@ -55,6 +55,10 @@ I'm a curious **Front-End Developer** dedicated to crafting clean, responsive, a
 
 ---
 
+<p align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Front-End+Developer;Passionate+about+UI%2FUX+Design;Always+Learning+%26+Building;Turning+Ideas+into+Experiences" alt="Typing SVG" />
+</p>
+---
 
 <p align="center">
   <br>
