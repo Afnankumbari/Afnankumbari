@@ -5,13 +5,13 @@
 # Hey there! 👋 I'm Mohammad Afnan Kumbari
 
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Front-End+Developer;Passionate+about+UI%2FUX+Design;Always+Learning+%26+Building;Turning+Ideas+into+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Fullstack+Developer;Passionate+about+UI%2FUX+Design;Always+Learning+%26+Building;Turning+Ideas+into+Experiences" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🔭 About Me
-I'm a curious **Front-End Developer** dedicated to crafting clean, responsive, and interactive web interfaces. I enjoy exploring new frameworks and design trends to bring creative ideas to life.
+I'm a curious **Fullstack Developer** dedicated to crafting clean, responsive, and interactive web interfaces. I enjoy exploring new frameworks and design trends to bring creative ideas to life.
 
 - 🔭 I’m currently working on **Web Development Projects**.
 - 🌱 I’m currently learning **Software Design Patterns & System Design**.
@@ -59,9 +59,11 @@ I'm a curious **Front-End Developer** dedicated to crafting clean, responsive, a
   <br>
   <b>"The hardest choices require the strongest wills."</b>
 </p>
+<p align="center">
+  <img src="https://media1.tenor.com/m/2SgKiGHXP2MAAAAd/thanos-thanos-fine-i-will-do-it-myself.gif" width="300" alt="Thanos - fine, I'll do it myself">
+</p>
 
 ---
-
 <p align="center">
 <i>"Code with creativity, build with passion."</i>
 </p>
