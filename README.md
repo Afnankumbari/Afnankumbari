@@ -35,11 +35,10 @@ I'm a curious **Fullstack Developer** dedicated to crafting clean, responsive, a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afnankumbari&show_icons=true&theme=radical&cache_seconds=86400" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Afnankumbari&theme=radical" height="180"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afnankumbari&layout=compact&theme=radical&cache_seconds=86400" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Afnankumbari&theme=radical" height="180"/>
 </p>
-
 ---
 
 ### 📬 Connect with Me
