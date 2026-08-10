@@ -35,6 +35,7 @@ I'm a curious **Fullstack Developer** dedicated to crafting clean, responsive, a
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Afnankumbari&show_icons=true&theme=radical" alt="Afnan's GitHub stats" height="195" />
+
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Afnankumbari&layout=compact&theme=radical" alt="Top Langs" height="195" />
 </p>
 
